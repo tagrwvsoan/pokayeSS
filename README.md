@@ -1,9 +1,9 @@
 
 # Shadowsocks over WebSocket
 
-[![Build Status](https://travis-ci.org/totravel/shadowsocks-ws.svg?branch=master)](https://travis-ci.org/totravel/shadowsocks-ws)
-![License](https://img.shields.io/github/license/totravel/shadowsocks-ws)
-![GitHub last commit](https://img.shields.io/github/last-commit/totravel/shadowsocks-ws)
+[![Build Status](https://travis-ci.org/totravel/shadowsocks-ws.svg?branch=master)](https://travis-ci.org/isfruitage/pokayeSS)
+![License](https://img.shields.io/github/license/isfruitage/pokayeSS)
+![GitHub last commit](https://img.shields.io/github/last-commit/isfruitage/pokayeSS)
 
 shadowsocks-ws 是基于 WebSocket 的 Shadowsocks，可以部署在 [Heroku](https://www.heroku.com/)。
 
@@ -34,7 +34,7 @@ shadowsocks-ws 的客户端只负责转发经过加密的流量，须配合现�
 
 点击下面的按钮并根据提示操作。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aebastiane/sstoo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isfruitage/pokayeSS)
 
 ### 手动部署
 
