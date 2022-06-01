@@ -7,5 +7,5 @@
     "local_port": 8787,
     "timeout": 5000,
     "password": "secret",
-    "method": "aes-256-gcm"
+    "method": "chacha20-ietf-poly1305"
 }
